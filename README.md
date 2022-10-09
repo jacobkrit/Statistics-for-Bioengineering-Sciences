@@ -3,7 +3,7 @@
 ### A repository from engineers to engineers for Statistics and Probability Theory 
 
 Every engineer and scientist should have in their toolbox a course module on Statistics and Probability theory. There is extensive literature with well-written information and theory. However, a condensed library that combines the concepts of statistics and probability with a Python-focused implementation is not clearly available. We provide all the Python applications required for Statistics and Probability in this repository.  
-
+ 
 # Syllabus
 
 - Chapter 1 - The Sample and Its Properties (descriptive statistics)
