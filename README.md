@@ -27,3 +27,5 @@ Every engineer and scientist should have in their toolbox a course module on Sta
 - Brani Vidakovic - Statistics for Bioengineering Sciences 
 - Benjamin Yakir - Introduction to Statistical Thinking 
 - Christian Heumann & Michael Schomaker Shalabh - Introduction to Statistics and Data Analysis
+
+Include References:
